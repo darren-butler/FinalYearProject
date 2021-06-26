@@ -1,3 +1,6 @@
+# NOTICE
+To save on git LFS costs the majority of files in this reposityory have been deleted, as a result this project can no longer be built. A feature overview can been seen at https://www.youtube.com/watch?v=LTX6R8bwlxc 
+
 ## About
 As part of our 4th year Applied Project & Minor Dissertation we set out to research and explore new technologies to produce an application that adheres to game development industry standards. Our aim was to create a game that incorporated the core features of networked multiplayer, procedural level generation, A.I. controlled enemies, and other minor gameplay systems.
 
